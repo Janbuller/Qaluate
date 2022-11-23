@@ -1,7 +1,7 @@
 package = "Qaluate"
 version = "1.0.0-1"
 source = {
-	url = "https://github.com/Janbuller/Qaluate",
+	url = "git://github.com/Janbuller/Qaluate",
     tag = "v1.0.0"
 }
 description = {
